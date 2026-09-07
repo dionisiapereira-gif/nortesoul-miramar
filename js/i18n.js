@@ -69,6 +69,12 @@ window.I18N = {
         { quote: "The condominium is very close to the beach, cafés and a mini-market.", author: "Paris · Airbnb" }
       ]
     },
+    host: {
+      kicker: "Meet your host",
+      title: "Hi, I'm Dionísia",
+      body: "I'm the owner and manager behind NorteSoul Miramar — communication, marketing and hospitality are what I do best. I'd love for you to get to know a bit more about me.",
+      cta: "Visit my personal page →"
+    },
     booking: {
       kicker: "Ready to stay?",
       title: "Choose how you'd like to book",
@@ -160,6 +166,12 @@ window.I18N = {
         { quote: "O cuidado com a limpeza e o sistema de check-in não podiam ser mais fáceis de usar. Excelente para trabalho ou lazer.", author: "Ricardo · Portugal" },
         { quote: "O condomínio fica muito perto da praia, de cafés e de um minimercado.", author: "Paris · Airbnb" }
       ]
+    },
+    host: {
+      kicker: "Conheça a sua anfitriã",
+      title: "Olá, sou a Dionísia",
+      body: "Sou a proprietária e gestora do NorteSoul Miramar — comunicação, marketing e hospitalidade são o que faço de melhor. Fique a conhecer-me um pouco melhor.",
+      cta: "Visitar a minha página pessoal →"
     },
     booking: {
       kicker: "Pronto para reservar?",
@@ -253,6 +265,12 @@ window.I18N = {
         { quote: "La copropriété est très proche de la plage, des cafés et d'une petite épicerie.", author: "Paris · Airbnb" }
       ]
     },
+    host: {
+      kicker: "Rencontrez votre hôte",
+      title: "Bonjour, je suis Dionísia",
+      body: "Je suis la propriétaire et gestionnaire de NorteSoul Miramar — communication, marketing et hospitalité sont mon métier. J'aimerais que vous en sachiez un peu plus sur moi.",
+      cta: "Visiter ma page personnelle →"
+    },
     booking: {
       kicker: "Prêt à réserver ?",
       title: "Choisissez votre mode de réservation",
@@ -344,6 +362,12 @@ window.I18N = {
         { quote: "El cuidado con la limpieza y el sistema de check-in no podrían ser más sencillos de usar. Ideal para trabajo u ocio.", author: "Ricardo · Portugal" },
         { quote: "El condominio está muy cerca de la playa, de cafeterías y de un minimercado.", author: "Paris · Airbnb" }
       ]
+    },
+    host: {
+      kicker: "Conoce a tu anfitriona",
+      title: "Hola, soy Dionísia",
+      body: "Soy la propietaria y gestora de NorteSoul Miramar — la comunicación, el marketing y la hospitalidad son lo que mejor sé hacer. Me encantaría que me conocieras un poco más.",
+      cta: "Visitar mi página personal →"
     },
     booking: {
       kicker: "¿Listo para reservar?",
