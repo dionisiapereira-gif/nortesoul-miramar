@@ -72,7 +72,7 @@ window.I18N = {
     host: {
       kicker: "Meet your host",
       title: "Hi, I'm Dionísia",
-      body: "I'm the owner and manager behind NorteSoul Miramar — communication, marketing and hospitality are what I do best. I'd love for you to get to know a bit more about me.",
+      body: "I'm the owner and manager behind NorteSoul Miramar. With over 20 years in communication, marketing and hospitality, I handle bookings and guest communication myself, and I speak Portuguese, English, French and Spanish, so you can reach me in your own language.",
       cta: "Visit my personal page →"
     },
     booking: {
@@ -172,7 +172,7 @@ window.I18N = {
     host: {
       kicker: "Conheça a sua anfitriã",
       title: "Olá, sou a Dionísia",
-      body: "Sou a proprietária e gestora do NorteSoul Miramar — comunicação, marketing e hospitalidade são o que faço de melhor. Fique a conhecer-me um pouco melhor.",
+      body: "Sou a proprietária e gestora do NorteSoul Miramar. Com mais de 20 anos de experiência em comunicação, marketing e hospitalidade, trato eu mesma das reservas e da comunicação com os hóspedes, e falo português, inglês, francês e espanhol, por isso pode contactar-me na sua língua.",
       cta: "Visitar a minha página pessoal →"
     },
     booking: {
@@ -272,7 +272,7 @@ window.I18N = {
     host: {
       kicker: "Rencontrez votre hôte",
       title: "Bonjour, je suis Dionísia",
-      body: "Je suis la propriétaire et gestionnaire de NorteSoul Miramar — communication, marketing et hospitalité sont mon métier. J'aimerais que vous en sachiez un peu plus sur moi.",
+      body: "Je suis la propriétaire et gestionnaire de NorteSoul Miramar. Forte de plus de 20 ans d'expérience en communication, marketing et hospitalité, je m'occupe moi-même des réservations et de la communication avec les voyageurs, et je parle portugais, anglais, français et espagnol : vous pouvez donc m'écrire dans votre langue.",
       cta: "Visiter ma page personnelle →"
     },
     booking: {
@@ -372,7 +372,7 @@ window.I18N = {
     host: {
       kicker: "Conoce a tu anfitriona",
       title: "Hola, soy Dionísia",
-      body: "Soy la propietaria y gestora de NorteSoul Miramar — la comunicación, el marketing y la hospitalidad son lo que mejor sé hacer. Me encantaría que me conocieras un poco más.",
+      body: "Soy la propietaria y gestora de NorteSoul Miramar. Con más de 20 años de experiencia en comunicación, marketing y hospitalidad, me ocupo yo misma de las reservas y de la comunicación con los huéspedes, y hablo portugués, inglés, francés y español, así que puedes escribirme en tu idioma.",
       cta: "Visitar mi página personal →"
     },
     booking: {
