@@ -86,7 +86,9 @@ window.I18N = {
       booking_desc: "NorteSoul Miramar, T3, piscina, garagem — rated 6.3/10 “Pleasant”.",
       booking_cta: "View on Booking.com",
       airbnb_desc: "Rated 4.67/5 from 15 reviews. Hosted by NorteSoul, Superhost since 2014.",
-      airbnb_cta: "View on Airbnb"
+      airbnb_cta: "View on Airbnb",
+      airbnb_tag: "Superhost · 4.67/5 · 15 reviews",
+      brand: "Part of the NorteSoul family of stays — Airbnb Superhost since 2014, with guest scores of 9+ across our Porto apartments."
     },
     footer: {
       tagline: "A local hospitality team based in Porto, offering comfortable, well-cared-for stays along the coast.",
@@ -184,7 +186,9 @@ window.I18N = {
       booking_desc: "NorteSoul Miramar, T3, piscina, garagem — avaliação 6.3/10 “Agradável”.",
       booking_cta: "Ver no Booking.com",
       airbnb_desc: "Avaliação de 4.67/5 em 15 comentários. Anfitrião NorteSoul, Superhost desde 2014.",
-      airbnb_cta: "Ver no Airbnb"
+      airbnb_cta: "Ver no Airbnb",
+      airbnb_tag: "Superhost · 4.67/5 · 15 comentários",
+      brand: "Parte da família de alojamentos NorteSoul — Superhost no Airbnb desde 2014, com avaliações de hóspedes acima de 9 nos nossos apartamentos do Porto."
     },
     footer: {
       tagline: "Uma equipa de hospitalidade local, sediada no Porto, que oferece estadias confortáveis e bem cuidadas junto à costa.",
@@ -282,7 +286,9 @@ window.I18N = {
       booking_desc: "NorteSoul Miramar, T3, piscine, garage — noté 6,3/10 « Agréable ».",
       booking_cta: "Voir sur Booking.com",
       airbnb_desc: "Noté 4,67/5 sur 15 avis. Hébergé par NorteSoul, Superhost depuis 2014.",
-      airbnb_cta: "Voir sur Airbnb"
+      airbnb_cta: "Voir sur Airbnb",
+      airbnb_tag: "Superhost · 4,67/5 · 15 avis",
+      brand: "Membre de la famille d'hébergements NorteSoul — Superhost Airbnb depuis 2014, avec des notes de 9+ dans nos appartements de Porto."
     },
     footer: {
       tagline: "Une équipe d'accueil locale basée à Porto, proposant des séjours confortables et bien entretenus sur le littoral.",
@@ -380,7 +386,9 @@ window.I18N = {
       booking_desc: "NorteSoul Miramar, T3, piscina, garaje — valorado con 6,3/10 “Agradable”.",
       booking_cta: "Ver en Booking.com",
       airbnb_desc: "Valorado con 4,67/5 en 15 opiniones. Anfitrión NorteSoul, Superhost desde 2014.",
-      airbnb_cta: "Ver en Airbnb"
+      airbnb_cta: "Ver en Airbnb",
+      airbnb_tag: "Superhost · 4,67/5 · 15 opiniones",
+      brand: "Parte de la familia de alojamientos NorteSoul — Superhost de Airbnb desde 2014, con puntuaciones de 9+ en nuestros apartamentos de Oporto."
     },
     footer: {
       tagline: "Un equipo de hospitalidad local con base en Oporto, que ofrece estancias cómodas y bien cuidadas en la costa.",
