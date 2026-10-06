@@ -239,6 +239,19 @@ h2 { font-size: var(--text-2xl); margin-bottom: var(--space-6); max-width: 22ch;
   .nav-toggle { display: flex; }
 }
 
+/* Keep the hamburger on-screen: the bold uppercase brand name is wider than the old italic one */
+@media (max-width: 480px) {
+  .header-inner { gap: var(--space-2); }
+  .brand { gap: var(--space-1); min-width: 0; }
+  .brand svg { width: 28px; height: 28px; }
+  .brand-name { font-size: 1.05rem; letter-spacing: 0; white-space: nowrap; }
+  .header-actions { gap: var(--space-2); }
+}
+@media (max-width: 350px) {
+  .brand svg { width: 24px; height: 24px; }
+  .brand-name { font-size: 0.9rem; }
+}
+
 /* ============ HERO ============ */
 .hero { position: relative; min-height: 100vh; display: flex; align-items: flex-end; overflow: hidden; }
 .hero-media { position: absolute; inset: 0; z-index: 0; }
